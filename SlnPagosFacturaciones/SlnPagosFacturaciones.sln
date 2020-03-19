@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagosFacturaciones", "PagosFacturaciones\PagosFacturaciones.csproj", "{4B9D057F-2FE8-48D2-B9AC-D621321BB590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9D057F-2FE8-48D2-B9AC-D621321BB590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9D057F-2FE8-48D2-B9AC-D621321BB590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9D057F-2FE8-48D2-B9AC-D621321BB590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9D057F-2FE8-48D2-B9AC-D621321BB590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFBCFAE-2E4D-4521-900E-A79FF42DF11A}
+	EndGlobalSection
+EndGlobal
